@@ -1,2 +1,2 @@
-# DataStruture
-Some exercises about  dataStruture.
+# DataStructure
+Some exercises about  dataStructure.
